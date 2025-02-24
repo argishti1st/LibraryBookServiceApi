@@ -1,0 +1,6 @@
+@LibraryBookServiceApi.cs_HostAddress = http://localhost:5226
+
+GET {{LibraryBookServiceApi.cs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
