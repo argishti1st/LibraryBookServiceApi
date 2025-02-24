@@ -1,7 +1,7 @@
-﻿using LibraryBookServiceApi.cs.Models;
+﻿using LibraryBookServiceApi.Models;
 using Microsoft.Extensions.Caching.Memory;
 
-namespace LibraryBookServiceApi.cs.Services
+namespace LibraryBookServiceApi.Services
 {
     public class LibraryService : ILibraryService
     {

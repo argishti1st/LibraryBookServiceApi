@@ -1,7 +1,7 @@
 ﻿using FluentValidation;
 using LibraryBookServiceApi.Models.ApiModels;
 
-namespace LibraryBookServiceApi.cs.Models.Validators
+namespace LibraryBookServiceApi.Models.Validators
 {
     public class BookApiModelValidator : AbstractValidator<BookApiModel>
     {

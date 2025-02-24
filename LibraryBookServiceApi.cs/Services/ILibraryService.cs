@@ -1,6 +1,6 @@
-﻿using LibraryBookServiceApi.cs.Models;
+﻿using LibraryBookServiceApi.Models;
 
-namespace LibraryBookServiceApi.cs.Services
+namespace LibraryBookServiceApi.Services
 {
     public interface ILibraryService
     {

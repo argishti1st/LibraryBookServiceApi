@@ -1,4 +1,4 @@
-﻿namespace LibraryBookServiceApi.cs.Models
+﻿namespace LibraryBookServiceApi.Models
 {
     public enum ResponseResult
     {

@@ -1,7 +1,7 @@
 using FluentValidation;
 using FluentValidation.AspNetCore;
-using LibraryBookServiceApi.cs.Models.Validators;
-using LibraryBookServiceApi.cs.Services;
+using LibraryBookServiceApi.Models.Validators;
+using LibraryBookServiceApi.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 

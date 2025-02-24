@@ -1,5 +1,5 @@
-﻿using LibraryBookServiceApi.cs.Models;
-using LibraryBookServiceApi.cs.Services;
+﻿using LibraryBookServiceApi.Models;
+using LibraryBookServiceApi.Services;
 using LibraryBookServiceApi.Models.ApiModels;
 using Microsoft.AspNetCore.Mvc;
 
